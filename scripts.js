@@ -7,7 +7,7 @@ var bday = parseInt(prompt("Enter your Birth Date","Ex. 07"));
 if( bmonth == "January" || bmonth == "january" || bmonth == "Jan"|| bmonth == "jan"){
     if(bday <= 19){
         //Capricorn
-        document.write("<img src='./zodiacs/Capri.gif'> ")
+        document.write("<video autoplay muted id='myVideo' width='100%' height='100%'><source src='capri.mp4' type='video/mp4'></video>");
     }
     else if(bday >=20 && bday <=31 ){
         //Aquarius
