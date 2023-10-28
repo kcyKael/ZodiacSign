@@ -56,7 +56,7 @@ else if(bmonth == "April" || bmonth == "april" || bmonth == "Apr"|| bmonth == "a
         //Aries
         document.write("<img src='./zodiacs/Aries.gif'> ");
     }
-    else if(bday >=20 && bday <=31){
+    else if(bday >=20 && bday <=30){
         //Taurus
         document.write("<img src='./zodiacs/Taurus.gif'> ");
     }
@@ -87,7 +87,7 @@ else if(bmonth == "June" || bmonth == "june" || bmonth == "Jun" || bmonth == "ju
        //Gemini
        document.write("<img src='./zodiacs/Gemini.gif'> ");
     }
-    else if(bday >=21 && bday <=31){
+    else if(bday >=21 && bday <=30){
         //Cancer
         document.write("<img src='./zodiacs/Cancer.gif'> ");
     }
@@ -135,7 +135,7 @@ else if(bmonth == "September" || bmonth == "september" || bmonth == "Sep" || bmo
         //Virgo
         document.write("<img src='./zodiacs/Virgo.gif'> ");
     }
-    else if(bday >=23 && bday <=31 ){
+    else if(bday >=23 && bday <=30 ){
         //Libra
         document.write("<img src='./zodiacs/Libra.gif'> ");
     }
@@ -167,7 +167,7 @@ else if(bmonth == "November" || bmonth == "november" || bmonth == "Nov" || bmont
        //Scorpio
        document.write("<img src='./zodiacs/Scorpio.gif'> ");
     }
-    else if(bday >=22 && bday <=31 ){
+    else if(bday >=22 && bday <=30 ){
         //Saggitarius
         document.write("<img src='./zodiacs/Saggitarius.gif'> ");
     }
